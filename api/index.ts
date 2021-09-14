@@ -1,10 +1,12 @@
 import { ApolloServer } from "apollo-server";
+import { context } from "./context";
 import { schema } from './schema';
 
 
 const makeApolloServer = () => {
 	return new ApolloServer({
-	  schema
+	  schema,
+	  context
 	});
   };
 

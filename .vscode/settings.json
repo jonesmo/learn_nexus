@@ -1,0 +1,12 @@
+{
+	"workbench.colorCustomizations": {
+		"PurpleTheme": {
+			"statusBar.background": "#9F33FF",
+			"statusBar.foreground": "#9F33FF"
+		},
+		"GreenTheme": {
+			"statusBar.background": "#2FEC26",
+			"statusBar.foreground": "#2FEC26"
+		}
+	}
+}
